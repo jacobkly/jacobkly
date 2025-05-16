@@ -1,7 +1,7 @@
-```json
+```bash
 > jacob@github:~$ intro
 {
-    "intro": "Heyy I'm Jacob! 👋"
+  "intro": "Heyy I'm Jacob! 👋"
 }
 > jacob@github:~$ whoami
 {
