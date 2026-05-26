@@ -25,6 +25,6 @@
 }
 > jacob@github:~$ future
 {
-  "goal": "Shipping products to live production that I've personally wanted to use for a long time.
+  "goal": "Shipping products to live production that I've personally wanted to use for a long time."
 }
 ```
