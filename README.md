@@ -21,10 +21,10 @@
 > jacob@github:~$ interests && fun_fact
 {
   "interests": ["Full Stack Development", "Distributed Systems", "AI/ML"],
-  "fun_fact":  "Saxophone player of 8+ years 🎷 — recently fell in love with electric guitar 🎸"
+  "fun_fact":  "Saxophone player of 8+ years 🎷 and recently fell in love with electric guitar 🎸"
 }
 > jacob@github:~$ future
 {
-  "goal": "Shipping products to live production that I've personally wanted to use for
+  "goal": "Shipping products to live production that I've personally wanted to use for a long time.
 }
 ```
