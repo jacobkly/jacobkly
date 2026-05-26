@@ -6,25 +6,25 @@
 > jacob@github:~$ whoami
 {
   "location": "Seattle, WA",
-  "school": "University of Washington",
+  "alma_mater": "University of Washington",
   "degree": "B.S. in Computer Science and Systems",
-  "expected_graduation": "August 2025",
-  "role": "Undergraduate Research Assistant"
+  "graduated": "August 2025",
+  "role": "Full Stack Software Engineer"
 }
 > jacob@github:~$ tech_stack
 {
-  "languages":   ["TypeScript", "Go", "Java", "Python", "LaTeX"],
-  "frameworks":  ["React", "Node", "FastAPI", "Flutter"],
-  "databases":   ["PostgreSQL", "MS SQL Server", "SQLite"],
-  "dev_tools":   ["Git", "Docker", "Postman"]
+  "languages":   ["Dart", "TypeScript", "Python", "Go", "Java", "SQL"],
+  "frameworks":  ["Flutter", "React", "Next.js", "FastAPI", "Node.js"],
+  "databases":   ["PostgreSQL", "Supabase", "SQLite"],
+  "dev_tools":   ["Git", "Docker", "Azure", "Nginx", "Postman"]
 }
 > jacob@github:~$ interests && fun_fact
 {
-  "interests": ["Full Stack Development", "AI/ML"],
-  "fun_fact":  "Played saxophone for 8+ years 🎷 (and some guitar!)"
+  "interests": ["Full Stack Development", "Distributed Systems", "AI/ML"],
+  "fun_fact":  "Saxophone player of 8+ years 🎷 — recently fell in love with electric guitar 🎸"
 }
 > jacob@github:~$ future
 {
-  "summer_2025": "Software Engineer Intern @ Junt Industries"
+  "goal": "Shipping products to live production that I've personally wanted to use for
 }
 ```
